@@ -1,3 +1,3 @@
 ```
-cd ~/.config && git clone https://github.com/SamPetering/kickstart.nvim.git nvim
+cd ~/.config && git clone https://github.com/SamPetering/nvim.git nvim
 ```
